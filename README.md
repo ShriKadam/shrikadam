@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrikadam
-- 👀 I’m interested in Machine Learning for  Robotics
+- 👀 I’m interested in Machine Learning for Computer Vision and Robotics
 - 🌱 I’m currently learning ROS
 - 💞️ I’m looking to collaborate on Open Source Robotics Projects
 - 📫 Reach out to me @shrikadam on LinkedIn
